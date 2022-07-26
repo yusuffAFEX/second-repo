@@ -1,0 +1,4 @@
+firstname,lastname,gender,dob,occupation,marital_status,email,age
+yusuff,oyedele,male,11-11-1998,farmer,single,yusuff@gmail.com,22
+quadri,ajagbe,male,11-11-1990,developer,single,quadri@gmail.com,25
+basheer,django,male,1-12-1890,developer,single,django@gmail.com,25
